@@ -33,5 +33,19 @@
     "phone": "465-878-5460 x3890",
     "email": "Annabel_Gleason@hotmail.com",
     "job": "Central Response Engineer"
+  },
+  {
+    "id": "974e6b45-3c7c-47eb-b79b-4136d9e38abf",
+    "name": "Marilyn Schaefer",
+    "phone": "839-254-8301 x102",
+    "email": "Lorine56@yahoo.com",
+    "job": "Legacy Data Analyst"
+  },
+  {
+    "id": "2ece2be4-745a-4c79-a8a5-212b16500e3c",
+    "name": "Johnny Hand",
+    "phone": "390.990.3729 x417",
+    "email": "Lucio_Nolan36@hotmail.com",
+    "job": "District Operations Director"
   }
 ]
