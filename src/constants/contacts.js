@@ -1,3 +1,7 @@
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-export const PATH_DB = path.resolve(process.cwd(), 'src', 'db', 'db.json');
+const __fileName = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__fileName);
+
+export const PATH_DB = path.resolve(__dirname, '../db/db.json');
